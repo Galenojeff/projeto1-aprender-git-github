@@ -1,2 +1,3 @@
 Olá, estou alterando o arquivo para uma nova versão.
-Alteração 3
+Alteração 4
+Aprendendo a criar nova branch.
